@@ -1,0 +1,8 @@
+{
+    "default_position": [-1696,-640],
+    "worlds": {
+        "overworld":[["end portal",-1705,-641],["spider spawner",-1668,-640]],
+        "nether":[],
+        "end":[]
+    }
+}
